@@ -65,4 +65,12 @@
         grid-template-columns: repeat(4, 250px);
         grid-template-rows: minmax(300px, auto) repeat(5, 250px);
     }
+
+    .output .previous-operand{
+      font-size: 5rem;
+    }
+
+    .output .current-operand{
+      font-size: 10rem;
+    }
 }
